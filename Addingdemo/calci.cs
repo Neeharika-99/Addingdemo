@@ -10,6 +10,10 @@ namespace Addingdemo
     {
         int a=5;
         int b=5;
-       
+        static void Main(string[] args)
+        {
+            Console.WriteLine(5+5);
+            Console.ReadKey();
+        }
     }
 }
