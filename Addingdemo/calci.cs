@@ -16,6 +16,10 @@ namespace Addingdemo
             Console.ReadKey();
             Console.WriteLine(5*5);
             Console.ReadKey();
+            //changes with jenkin
+            Console.WriteLine(5 / 5);
+            
+            Console.ReadKey();
 
         }
     }
