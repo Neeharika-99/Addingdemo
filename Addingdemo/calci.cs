@@ -20,6 +20,8 @@ namespace Addingdemo
             Console.WriteLine(5 / 5);
             Console.WriteLine(5 - 5);
             Console.ReadKey();
+            Console.WriteLine(5 % 5);
+            Console.ReadKey();
 
         }
     }
